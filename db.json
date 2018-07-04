@@ -5,9 +5,6 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "employees": [
     {
       "id": 1,
@@ -179,5 +176,8 @@
       },
       "phone": "024-648-3804"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
